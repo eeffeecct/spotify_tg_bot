@@ -5,10 +5,10 @@ import time
 from pyrogram import Client
 
 
-api_id = 1723300
-api_hash = "9fc037ebb0befc16d8c400ee047a7a46"
-client_id = 'dee4a458daec48609c69fcf33cfadb86'
-client_secret = '653895e92ed244f8b2da633fe57595b3'
+api_id = *
+api_hash = "*"
+client_id = '*'
+client_secret = '*'
 scope = 'user-read-currently-playing user-read-playback-state'
 data = ['1', '2']    # массив, в который добавляются названия треков и сравниваются, чтобы понимать когда менять облогу
 k = 0   # счетчик, который считает когда удалять фотку с профиля
